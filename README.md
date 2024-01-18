@@ -46,4 +46,5 @@ If you feel like you want to contact me or comment something to me, Email me at 
 
 # License
 
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+
