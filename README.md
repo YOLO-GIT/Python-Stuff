@@ -2,6 +2,7 @@
 
 - [Introduction](#introduction)
 - [Installation](#installation)
+- [Conclusion](#conclusion)
 
 # Introduction
 
@@ -39,4 +40,10 @@ run word_meaning_finder.py
 
 - Then, enjoy.
 
+# Conclusion
 
+If you feel like you want to contact me or comment something to me, Email me at my business email : gigasteelwulf@gmail.com
+
+# License
+
+This project is licensed under the [License Name] - see the LICENSE.md file for details.
